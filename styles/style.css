@@ -7,3 +7,13 @@
 .primary-color {
 	color: blue;
 }
+
+.stop-waiting {
+	background-image: url("../img/background.png");
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-blend-mode: overlay;
+	height: 100vh;
+	padding-top: 25%;
+}
